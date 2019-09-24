@@ -1,3 +1,5 @@
+To view App, use this link(https://joshtru.github.io/monsters-page/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
